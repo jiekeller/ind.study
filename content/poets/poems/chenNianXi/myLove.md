@@ -1,0 +1,46 @@
+---
+title: My Love
+---
+# My Love
+**By Xiao Hai**
+
+My love, I must go again <br />
+The empty house is left just with you <br />
+By the wall sits a pair of blooming flowers <br />
+An illusionary display of those good times fifteen years ago <br />
+After I go, you should look after yourself <br />
+When the north wind comes, lock the wood door <br />
+The cleaver of life splits us apart <br />
+Leaving deep gray scars all over our bodies <br />
+Fifteen years, I am like the frantic second hand of a clock <br />
+Walking by Earth’s twelve branches <br />
+Walking by Heaven and Hell’s heavy gates <br />
+From beginning to end, unable to escape the running water of DanJiang river <br />
+One walked to the horizon <br />
+Also to return  <br />
+My love, we are a poor generation <br />
+Living a doomed lifetime <br />
+Impoverished and feral <br />
+Do you see QinLing mountain in front of the door is thinner <br />
+A tunnel transporting life and death from this end to the other <br />
+A gust of wind pushes autumn from the top of the mountain to the bottom <br />
+I am also QinLing <br />
+With the hand of time <br />
+I become more empty <br />
+My love, I’m gone <br />
+Close the door <br />
+Through the crack in the door extend a pair of scissors <br />
+Cut the tall mountain range and turn it into a highway for me <br />
+Cut the tree by the roadside <br />
+And turn it into my family <br />
+
+---------------<br />
+
+Chen Nianxi’s poem 爱人, or 'lover,' which tells the story of a migrant worker struggling to leave their love while they travel far away for labor/work, highlights the issue of untranslatability with migrant worker poetry. Chen Nianxi writes of the separation, harrowing distances traveled and trapped lifestyle that consumes migrant workers. At the end of the poem, Chen writes: 
+
+门缝里伸出剪刀<br />
+把高岭剪成大路<br />
+把路旁的树<br />
+剪成我娘<br />
+
+If translated word by word, these lines translate to: “Scissors sticking out of the doorway, Cut the mountains into roads, And cut the trees on the roadside, Cut them into my mother.” However, this poem seems to abruptly end with the subject mentioning his mother, confusing even to native speakers. According to Chen Nianxi himself, these lines can hold two meanings, on the one hand the scissors can be seen as 目光 or sight, while on the other hand the scissors can be thought of more literally, cutting the mountains into highway and the tree into the subject’s mother to make their journey less tiresome. This poem makes clear the painful effects of the laboring class’ work opportunities on romance, yet the ambiguous ending forced my translation to take a more interpretive form.

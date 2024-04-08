@@ -2,12 +2,12 @@
 title: "Chinese Worker"
 ---
 
-# Chinese Worker
+# Chinese Workers
 **By Xiao Hai**
 
 I am a Chinese worker<br />
 Every corner of the world has our revolutionary companions<br />
-Maybe it’s intentional or maybe it’s unintentional<br />
+maybe it’s intentional or maybe it’s unintentional<br />
 But we all stand here, true and real<br />
 Using our two laboring hands to face the storm engulfing the globe<br />
 <br />
@@ -26,11 +26,11 @@ Years of stars and sparks whizz by<br />
 The heavy rain enters my chest, the strong wind blows endlessly <br />
 
 In the lightning and thunder I ask myself<br />
-When do we give ourselves the time to follow a wild pursuit of life<br />
+when do we give ourselves the time to follow a wild pursuit of life<br />
 8,000 li too far<br />
 3,000 li too close<br />
 We, in this vast land of 9,600,00 square kilometer <br />
-Surviving through the night<br />
+surviving through the night<br />
 I came from the village<br />
 You came from the town<br />
 We toil together, barefoot, in this dazzling, dreamlike, solid metropolis.<br />
@@ -63,5 +63,20 @@ Overgrown with Chinese workers<br />
 Overgrown with Chinese workers<br />
 I am a Chinese worker<br />
 <br />
+
+---------------<br />
+
+In this long poem, Xiao Hai critiques the societal and global effects of China’s industrialization and expresses the anger and emotions of a Chinese worker. This poem firstly speaks to the hardships endured by workers like Xiao Hai. He writes that the material concerns of many modern citizens would be considered a luxury in the daily tasks of migrant workers and many of the hopes and dreams they hold are lost overtime. Xiao Hai then goes on to question and condemn the pollution and industrialization of his country and the world. He writes,<br />
+
+We, in this vast land of 960,000 square kilometer <br />
+Surviving through the night<br />
+I came from the village<br />
+You came from the town<br />
+We toil together, barefoot, in this dazzling, dreamlike, solid metropolis.<br />
+
+These lines exemplify the powerful solidarity between workers, a central theme of migrant worker poetry. Coming from many different rural areas, these migrant workers come together in the city, laboring under the ethereal bright lights and tall buildings. Xiao Hai speaks to the importance of this togetherness and collective spirit in this poem. He concludes by repeating the lines “Overgrown with Chinese Workers…” for eight lines, comparing contemporary industrial workers to ancient fighters of China’s past, promoting the rebellious spirit of the migrant working class. The last line, “I am a Chinese worker,” ties the poem together with Xiao Hai’s powerful utterance that he is taking ownership and agency of his status. 
+ 
+
+
 
 [^1]:  This line literally translates to “Chinese workers as silent as a mystery.” However, this phrase does not have the same metaphorical weight in English, so I translated this as “Chinese workers, silent as the dead.”

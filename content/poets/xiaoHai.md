@@ -4,7 +4,7 @@ title: "Xiao Hai"
 
 # Xiao Hai
 
-## Poems 
+### Poems 
 
 [A Worker's Home](/poets/poems/xiaoHai/aWorkersHome)<br />
 <br />
@@ -13,5 +13,7 @@ title: "Xiao Hai"
 [Workers After the Night Shift](/poets/poems/xiaoHai/workersAfterNight)<br />
 <br />
 [A Night at the Jiaxing Factory](/poets/poems/xiaoHai/aNightatThe)<br />
+<br />
+[自由(Freedom)](/poets/poems/xiaoHai/freedom)<br />
 
 

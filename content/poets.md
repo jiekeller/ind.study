@@ -6,8 +6,6 @@ title: "Poets"
 
 Throughout this project I translated works from several different poets. Click on a poet to view their translated poems.
 
-![](/images/orange.png)
-
 [Chen Nianxi](/poets/chenNianxi)
 
 [Li Ruo](/poets/liRuo)
@@ -18,12 +16,14 @@ Throughout this project I translated works from several different poets. Click o
 
 [Wan Huashan](/poets/wanHuaShan)
 
+<img src="/images/noprofile.jpg" width="100"/> <br/>
 [Wu Xia](/poets/wuXia)
 
 [Xiao Hai](/poets/xiaoHai)
 
 [Xu Duo](/poets/xuDuo)
 
+<img src="/images/xulizhi_image.jpeg" width="100"/> <br/>
 [Xu Lizhi](/poets/xuLiZhi)
 
 

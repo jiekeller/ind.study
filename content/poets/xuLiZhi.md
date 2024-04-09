@@ -11,6 +11,8 @@ title: "Xu Lizhi"
 
 [In Autumn at Dusk](/poets/poems/xuLiZhi/inAutumn)
 
+[Pink](/poets/poems/xuLiZhi/pink)
+
 [Terracotta Army On the Assembly Line](/poets/poems/xuLiZhi/terraCotta)
 
 [They Say](/poets/poems/xuLiZhi/theySay)

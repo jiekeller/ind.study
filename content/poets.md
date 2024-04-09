@@ -1,6 +1,5 @@
 ---
 title: "Poets"
-author: "Jack Keller"
 ---
 
 # Poets
@@ -10,6 +9,8 @@ Throughout this project I translated works from several different poets. Click o
 ![](/images/orange.png)
 
 [Chen Nianxi](/poets/chenNianxi)
+
+[Li Ruo](/poets/liRuo)
 
 [Qi Fengchi](/poets/qiFengChi)
 

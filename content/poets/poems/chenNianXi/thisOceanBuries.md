@@ -11,8 +11,8 @@ The ocean can’t be demolished, but it can be polluted<br />
 like a modern history of civilization, full of marks of copulation<br />
 <br />
 This vast ocean<br />
-Transporting subcontract shoes of adidas, sending steel laborers towards the opposite shore<br />
-and bringing in blue eyed foreigners’ fortified gun ships<br />
+Transporting subcontract adidas shoes, sent by steel laborers towards the opposite shore<br />
+and confronting blue eyed foreigners’ fortified gun ships<br />
 Gun barrels filling up with the gunpowder made by our ancestors <br />
 Now it buries a poet and his mechanical youth worth less than his work station<br />
 Those twenty four years of an imprisoned soul lie here<br />

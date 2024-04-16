@@ -110,3 +110,48 @@ a:hover {
 
   line-height: 20px;
 }
+
+.box {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.poetBox {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.flexbox-poem{
+  width: 1000px;
+  margin: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+}
+
+.flexbox-blurb{
+  width: 800px;
+  margin: 15px;
+  border: 1.5px solid #0a0a0a;
+  background-color: #e4e4e4c7;
+  font-size: medium;
+}
+
+.flexbox-poet{
+  width: 250px;
+  margin: 15px;
+  border: 1.5px solid #0a0a0a;
+  background-color: #e4e4e4c7;
+  font-size: medium;
+}
+
+flexbox-item-1{
+  min-height: 100px;
+  flex-shrink: 0;
+}
+flexbox-item-2 {
+  min-height: 200px;
+  flex-shrink: 0;
+}

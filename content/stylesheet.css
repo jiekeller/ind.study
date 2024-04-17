@@ -38,8 +38,6 @@ a:hover {
 
   top: 40px;
   left: 280px;
-
-  width: 500px;
 }
 
 #main h1 {
@@ -87,6 +85,7 @@ a:hover {
   text-align: right;
 }
 
+
 #sidebar h2 {
   text-transform: uppercase;
 
@@ -113,7 +112,7 @@ a:hover {
 
 .box {
   display: flex;
-  flex-flow: row wrap;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: flex-start;
 }
@@ -137,6 +136,9 @@ a:hover {
   border: 1.5px solid #0a0a0a;
   background-color: #e4e4e4c7;
   font-size: medium;
+  border-style: solid;
+  border-radius: 3px;
+  padding: 7px;
 }
 
 .flexbox-poet{
@@ -145,6 +147,9 @@ a:hover {
   border: 1.5px solid #0a0a0a;
   background-color: #e4e4e4c7;
   font-size: medium;
+  border-style: solid;
+  border-radius: 3px;
+  padding: 7px;
 }
 
 flexbox-item-1{

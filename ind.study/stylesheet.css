@@ -1,0 +1,162 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+* {
+  margin: 0;
+  padding: 0;
+
+  font-family: Georgia, Palatino, sans-serif;
+}
+
+html, body {
+  background: #fff;
+  font-size: 1.25 em;
+}
+
+h1 {
+  color: blue;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #010891;
+}
+
+a:hover {
+  color: #4664cd;
+}
+
+#main {
+  position: absolute;
+
+  top: 40px;
+  left: 280px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+}
+
+#main p {
+  margin: 20px 0;
+
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: absolute;
+
+  top: 40px;
+  left: 20px;
+  width: 200px;
+
+  padding: 20px 20px 0 0;
+
+  border-right: 1px solid #ccc;
+
+  text-align: right;
+}
+
+
+#sidebar h2 {
+  text-transform: uppercase;
+
+  font-size: 13px;
+
+  color: #333;
+
+  letter-spacing: 1px;
+
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 14px;
+
+  line-height: 20px;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.poetBox {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.flexbox-poem{
+  width: 1000px;
+  margin: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+}
+
+.flexbox-blurb{
+  width: 800px;
+  margin: 15px;
+  border: 1.5px solid #0a0a0a;
+  background-color: #e4e4e4c7;
+  font-size: medium;
+  border-style: solid;
+  border-radius: 3px;
+  padding: 7px;
+}
+
+.flexbox-poet{
+  width: 250px;
+  margin: 15px;
+  border: 1.5px solid #0a0a0a;
+  background-color: #e4e4e4c7;
+  font-size: medium;
+  border-style: solid;
+  border-radius: 3px;
+  padding: 7px;
+}
+
+flexbox-item-1{
+  min-height: 100px;
+  flex-shrink: 0;
+}
+flexbox-item-2 {
+  min-height: 200px;
+  flex-shrink: 0;
+}

@@ -6,6 +6,7 @@ gem 'nanoc', '~> 4.12'
 
 gem "kramdown", "~> 2.4"
 
+gem 'nokogiri', "~> 1.16"
 
 group "nanoc" do
   gem "nanoc-live"

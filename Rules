@@ -1,10 +1,11 @@
 #!/usr/bin/env ruby
 
-prefix_path = '/ind.study'
+prefix_path = ''
 # prefix_path = ''
 
 compile '/**/*.html' do
   filter :erb, locals: { prefix_path: }
+  filter :relativize_paths, :type => :html
   layout '/default.*', locals: { prefix_path: }
 
   if item.identifier =~ '**/index.*'

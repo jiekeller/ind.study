@@ -2,12 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <base href="<%= prefix_path + '/' %>" />
+    <base href="<%= prefix_path + '/ind.study/' %>" />
+    <baseNOT href="/" />
     <title>A Digital Collection of MWP - <%= @item[:title] %></title>
-    <link rel="stylesheet" href="/stylesheet.css">
+    <link rel="stylesheet" href="stylesheet.css">
 
-    <!-- you don't need to keep this, but it's cool for stats! -->
-    <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
     <div id="main">
@@ -20,9 +19,9 @@
     <div id="sidebar">
       <h2>Navigate</h2>
       <ul>
-        <li><%= link_to 'Home', prefix_path + '/' %> </li>
-        <li><%= link_to 'About', prefix_path + '/about/' %> </li>
-        <li><%= link_to 'Poets', prefix_path + '/poetsalternative/' %> </li>
+        <li><%= link_to 'Home', prefix_path %> </li>
+        <li><%= link_to 'About', prefix_path + 'about/' %> </li>
+        <li><%= link_to 'Poets', prefix_path + 'poetsalternative/' %> </li>
         <!-- <li><a href="https://nanoc.ws/doc/">Documentation</a></li> -->
         <!-- <li><a href="https://nanoc.ws/doc/tutorial/">Tutorial</a></li>         -->
       </ul>

@@ -33,6 +33,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     memo_wise (1.8.0)
+    mini_portile2 (2.8.6)
     nanoc (4.12.19)
       addressable (~> 2.5)
       colored (~> 1.2)
@@ -71,12 +72,18 @@ GEM
       listen (~> 3.0)
       nanoc-cli (~> 4.11, >= 4.11.14)
       nanoc-core (~> 4.11, >= 4.11.14)
+    nokogiri (1.16.4)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
+    nokogiri (1.16.4-x86_64-darwin)
+      racc (~> 1.4)
     parallel (1.24.0)
     pastel (0.8.0)
       tty-color (~> 0.5)
     psych (5.1.2)
       stringio
     public_suffix (5.0.4)
+    racc (1.7.3)
     rack (2.2.8)
     rack-livereload (0.5.2)
       rack (< 3)
@@ -107,6 +114,7 @@ DEPENDENCIES
   kramdown (~> 2.4)
   nanoc (~> 4.12)
   nanoc-live
+  nokogiri (~> 1.16)
   webrick (~> 1.8)
 
 BUNDLED WITH

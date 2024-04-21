@@ -160,3 +160,7 @@ flexbox-item-2 {
   min-height: 200px;
   flex-shrink: 0;
 }
+
+.quotedpoetry {
+  background-color: #ebc9c9c7;
+}

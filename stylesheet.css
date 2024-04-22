@@ -152,11 +152,11 @@ a:hover {
   padding: 7px;
 }
 
-flexbox-item-1{
+.flexbox-item-1{
   flex-shrink: 0;
   max-width: 200px;
 }
-flexbox-item-2 {
+.flexbox-item-2 {
   min-height: 200px;
   flex-shrink: 0;
 }

@@ -155,7 +155,7 @@ a:hover {
 flexbox-item-1{
   min-height: 100px;
   flex-shrink: 0;
-  width: 500px;
+  max-width: 500px;
 }
 flexbox-item-2 {
   min-height: 200px;

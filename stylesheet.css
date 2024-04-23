@@ -163,4 +163,9 @@ a:hover {
 
 .quotedpoetry {
   color: #000ea9;
+  size: smaller;
+}
+
+.title {
+  color: #343eab;
 }

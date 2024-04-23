@@ -17,7 +17,7 @@ html, body {
 }
 
 h1 {
-  color: blue;
+  color: rgb(0, 0, 157);
 }
 
 a {
@@ -26,11 +26,11 @@ a {
 
 a:link,
 a:visited {
-  color: #010891;
+  color: #4851ff;
 }
 
 a:hover {
-  color: #4664cd;
+  color: #5d80ff;
 }
 
 #main {

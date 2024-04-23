@@ -5,19 +5,19 @@ title: "Wang Jibing"
 # Wang Jibing
 
 ### Poems 
-[Calling Back the Soul](/poets/poems/wangJiBing/callingBack)
+[Calling Back the Soul](poets/poems/wangJiBing/callingBack)
 
-[Path](/poets/poems/wangJiBing/path)
+[Path](poets/poems/wangJiBing/path)
 
-[Rushing to the Next Order](/poets/poems/wangJiBing/rushing)
+[Rushing to the Next Order](poets/poems/wangJiBing/rushing)
 
-[Silver Marriage](/poets/poems/wangJiBing/silverMarriage)
+[Silver Marriage](poets/poems/wangJiBing/silverMarriage)
 
-[That Person](/poets/poems/wangJiBing/thatPerson)
+[That Person](poets/poems/wangJiBing/thatPerson)
 
-[Those Racing Against Time](/poets/poems/wangJiBing/thoseRacing)
+[Those Racing Against Time](poets/poems/wangJiBing/thoseRacing)
 
-[To My Love](/poets/poems/wangJiBing/toMyLove)
+[To My Love](poets/poems/wangJiBing/toMyLove)
 
 
 

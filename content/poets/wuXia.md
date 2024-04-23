@@ -6,11 +6,11 @@ title: "Wu Xia"
 
 ### Poems 
 
-[Rules](/poets/poems/wuXia/rules)
+[Rules](poets/poems/wuXia/rules)
 
-[Sundress](/poets/poems/wuXia/sundress)
+[Sundress](poets/poems/wuXia/sundress)
 
-[You Must Appreciate *Dagong*](/poets/poems/wuXia/youMustAppreciate)
+[You Must Appreciate *Dagong*](poets/poems/wuXia/youMustAppreciate)
 
 
 

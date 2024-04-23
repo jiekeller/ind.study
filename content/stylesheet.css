@@ -17,7 +17,7 @@ html, body {
 }
 
 h1 {
-  color: blue;
+  color: rgb(0, 0, 157);
 }
 
 a {
@@ -26,11 +26,11 @@ a {
 
 a:link,
 a:visited {
-  color: #010891;
+  color: #4851ff;
 }
 
 a:hover {
-  color: #4664cd;
+  color: #5d80ff;
 }
 
 #main {
@@ -152,12 +152,11 @@ a:hover {
   padding: 7px;
 }
 
-flexbox-item-1{
-  min-height: 100px;
+.flexbox-item-1{
   flex-shrink: 0;
-  width: 500px;
+  max-width: 200px;
 }
-flexbox-item-2 {
+.flexbox-item-2 {
   min-height: 200px;
   flex-shrink: 0;
 }

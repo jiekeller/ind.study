@@ -26,11 +26,11 @@ a {
 
 a:link,
 a:visited {
-  color: #4851ff;
+  color: #00055a;
 }
 
 a:hover {
-  color: #ff5d5d;
+  color: #343efc;
 }
 
 #main {
@@ -162,5 +162,5 @@ a:hover {
 }
 
 .quotedpoetry {
-  color: #000ea9c7;
+  color: #000ea9;
 }

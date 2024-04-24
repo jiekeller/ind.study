@@ -35,8 +35,11 @@ title: Empire State Building
             <div class="flexbox-blurb flexbox-item-2">
                 Chen Nianxi uses this poem to generate an interesting allegory between China and the US, centered around the cultural revolution. Chen Nianxi starts by attesting to his distaste for large things, comparing the many statues and posters of Mao walked triumphantly through the streets during the cultural revolution to the towering figure of the Empire State Building. Chen Nianxi questions the goals and behavior of empires like China and the US:
                 <br />
+                <br />
                 <div class="quotedpoetry" > 
                 Making me more anxious: Empire, what do you want?<br />
+                <br />
+                <br />
                 </div>
                 Chen Nianxi seems to hold significant disdain for the two global superpowers, displeased with both countries’ morals, societies and powerful figures. Furthermore, he suggests these two states may not be so different as they claim to be. While the US and China differ in many ways, Chen Nianxi sees similarities in many things, even the metal used to build the Empire State Building. While this comparison is striking, the second half of the poems takes a completely different tone. The poet describes the boats, people and streets he sees at the top of the skyscraper, before concluding the poem with two disconnected lines. This difference in tone leaves the reader confused, however, Chen Nianxi’s distinct perspective in the first half of the poem asks important questions in today’s geopolitical landscape.
             </div>

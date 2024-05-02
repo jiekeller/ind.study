@@ -46,4 +46,3 @@ title: New Marriage Record
         </div>
     </body>
 </html>
-

@@ -48,6 +48,3 @@ title: Where Are You?
         </div>
     </body>
 </html>
-
-
-

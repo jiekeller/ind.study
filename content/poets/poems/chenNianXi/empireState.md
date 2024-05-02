@@ -46,5 +46,3 @@ title: Empire State Building
         </div>
     </body>
 </html>
-
-

@@ -37,10 +37,3 @@ title: Peach
         </div>
     </body>
 </html>
-
-
-
-
-
----------------<br />
-

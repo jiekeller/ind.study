@@ -14,11 +14,16 @@
 html, body {
   background: #fff;
   font-size: 1.25 em;
-  padding-right: 1.5em; /* if you freak out this is why */
+  padding-right: 4.5em;
 }
 
 h1 {
   color: rgb(0, 0, 157);
+  padding-right: 4.5em;
+}
+
+h4 {
+  padding-right: 4.5em; /* if you freak out this is why */
 }
 
 a {

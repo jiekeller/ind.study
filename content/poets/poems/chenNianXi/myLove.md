@@ -43,15 +43,11 @@ title: My Love
             </div>
             <div class="flexbox-blurb flexbox-item-2">
             Chen Nianxi’s poem 爱人, or 'My Love,' which tells the story of a migrant worker struggling to leave their love while they travel far away for labor/work, highlights the issue of untranslatability with migrant worker poetry. Chen Nianxi writes of the separation, harrowing distances traveled and trapped lifestyle that consumes migrant workers. At the end of the poem, Chen writes: 
-            <br />
-            <br />
             <div class="quotedpoetry" > 
             Through the crack in the door extend a pair of scissors<br />
             cut the tall mountain range and turn it into a highway for me<br />
             cut the tree by the roadside<br />
             and turn it into my family<br />
-            <br />
-            <br />
             </div>
             If translated word by word, these lines translate to: “Scissors sticking out of the doorway, cut the mountains into roads, and cut the trees on the roadside, cut them into my mother.” However, this poem seems to abruptly end with the subject mentioning his mother, confusing even to native speakers. According to Chen Nianxi himself, these lines can hold two meanings, on the one hand the scissors can be seen as 目光 or sight, while on the other hand the scissors can be thought of more literally, cutting the mountains into highway and the tree into the subject’s mother to make their journey less tiresome. This poem makes clear the painful effects of the laboring class’ work opportunities on romance, yet the ambiguous ending forced my translation to take a more interpretive form.
             </div>
